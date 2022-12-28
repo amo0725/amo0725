@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amo Feng</h1>
-<h3 align="center">A Jr. Full Stack Developer from Taiwan</h3>
+<h3 align="center">A Jr. Backend Stack Developer from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amo0725&label=Profile%20views&color=0e75b6&style=plastic" alt="amo0725" /> </p>
 
-- 🔭 I’m currently working on [ID Cloud Technology](https://www.idct.com.tw/)
+- 🔭 I’m currently working on [ConneXionONE Corp.](https://dotarazzi.com/)
 
-- 🌱 I’m currently learning **Next.js & TailwindCSS**
+- 🌱 I’m currently learning **NestJs & Next.js & TailwindCSS**
 
 - 👯 I’m graduated from [Tamkang University](https://www.tku.edu.tw/)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amo0725](https://github.com/amo0725)
 
-- 💬 Ask me about **PHP, Node.js, C**
+- 💬 Ask me about **Nestjs, Typescript, PHP, Node.js, C, MySQL, Redis**
 
 - 📫 How to reach me **amo880725@gmail.com**
 
