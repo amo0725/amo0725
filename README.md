@@ -32,5 +32,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amo0725&show_icons=true&theme=radical&title_color=3fc6f3&text_color=454545&bg_color=ffffff&locale=en&layout=compact" alt="amo0725" /></p>
 
 <p>
-  Another Github for Company - <a href="https://github.com/AmoOAO" target="_blank" rel="noreferrer">AmoOAO</a>
-  <img align="center" src="https://i.ibb.co/xDfhKj4/image.png" alt="AmoOAO" /></p>
+  <h3 align="left">My Another Github for Company: <a href="https://github.com/AmoOAO" target="_blank" rel="noreferrer">AmoOAO</a></h3>
+  <img align="center" src="https://i.ibb.co/xDfhKj4/image.png" alt="AmoOAO" />
+</p>
