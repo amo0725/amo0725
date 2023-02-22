@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amo0725&label=Profile%20views&color=0e75b6&style=plastic" alt="amo0725" /> </p>
 
-- 🔭 I’m currently working on [ConneXionONE Corp.](https://dotarazzi.com/)
+- 🔭 I’m currently working on [imBee Limited](https://www.imbee.io/)
 
 - 🌱 I’m currently learning **NestJs & Next.js & TailwindCSS**
 
